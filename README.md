@@ -1,2 +1,2 @@
 # Calculator1
-Graphical interface design for a calculator using Tkinter
+Graphical interface design for a calculator using Python (Tkinter)
